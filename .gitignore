@@ -1,0 +1,8 @@
+.calva/
+.clj-kondo/.cache/
+.lsp/
+.shadow-cljs/
+node_modules/
+resources/public/js/compiled/
+resources/public/tailwind.css
+.DS_Store
